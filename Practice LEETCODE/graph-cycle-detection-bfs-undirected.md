@@ -1,7 +1,7 @@
 # 🧩 Cycle Detection in an Undirected Graph (BFS)
 
 **Difficulty:** Medium  
-**LeetCode Link:** https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
+**gfg Link:** https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1
 
 ---
 
