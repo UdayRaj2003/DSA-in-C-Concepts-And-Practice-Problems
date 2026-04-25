@@ -1,7 +1,7 @@
 # 🧩 Maximize Distance Between Selected Boundary Points (Optimized)
 
 **Difficulty:** Hard  
-**LeetCode Link:** <problem link>
+**LeetCode Link:** [<problem link>](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square)
 
 ---
 
